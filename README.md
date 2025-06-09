@@ -1,17 +1,16 @@
 ### Introduction
 
-This is a program that will demonstrate the interaction between python and SQL.
+This is a program that will demonstrate the interaction between Python and SQL.
 
-I'm developing it to organize my collection of One Piece Trading Cards and hopefully implement it with the time.
+I'm developing it to organize my collection of One Piece Trading Cards and hopefully add features to it with time.
 
 ### What it does now?
 
-For the time being, the program is a simple CRUD, every aspect of it is commented with # and if need will be ready to use.
+For the time being, the program is a CRUD with an interface for adding card and exporting the SQL database to a .xlsx file for easy reading and manipulating if necessary.
 
 ### What do I want for the future?
 
- - An interactive UI
- - Easy way yo add cards, edit, and delete them
- - Flag to help search
- - A webscrapper for the Bamdai data for the cards (illustrations, collections, etc)
- - Deck Builder (advanced and probably for it's final phase)
+ - Improvements to the UI (delete card, add quantity of cards);
+ - Dropdown menus for card types and functions;
+ - Future illustrations for the cards from the Bandai data;
+ - Deck Builder (advanced and probably for it's final phase).
